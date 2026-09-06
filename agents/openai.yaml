@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt to Image v0.3"
+  short_description: "Route visual briefs to controlled image templates"
+  default_prompt: "Generate a structured visual design from my brief."
