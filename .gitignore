@@ -1,0 +1,15 @@
+# 排除脚本与工作产物
+publish.py
+update_draft.py
+publish_result.json
+*.pyc
+__pycache__/
+
+# 模板生成封面图（不进仓库，体积大）
+A_cinematic_dark_banner_image__*.png
+
+# 示例图片不进仓库
+example-*.jpg
+
+# 本地工作笔记
+*.log
