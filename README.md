@@ -204,6 +204,7 @@ prompt-to-image-v0.4/
 
 ## 作者
 
-**砍做日**
+**砍做日**  
+个人博客：[kanzuori.com](https://kanzuori.com)
 
 如果这个项目对你的 AI 视觉工作流有帮助，欢迎 Star、Fork，并提交新的模板与案例。
